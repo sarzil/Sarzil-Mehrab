@@ -1,0 +1,107 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      ".gitignore": {
+        "previousModTime": 1511695838879,
+        "modified": 1511695838879,
+        "seen": true,
+        "name": ".gitignore"
+      },
+      "DigitalWrite.xdk": {
+        "previousModTime": 1511695839225,
+        "modified": 1511695839225,
+        "seen": true,
+        "name": "DigitalWrite.xdk"
+      },
+      "DigitalWrite.xdke": {
+        "previousModTime": 1511695999341,
+        "modified": 1511695999341,
+        "seen": true,
+        "name": "DigitalWrite.xdke"
+      },
+      "icon.png": {
+        "previousModTime": 1511695838879,
+        "modified": 1511695838879,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "LICENSE.md": {
+        "previousModTime": 1511695838887,
+        "modified": 1511695838887,
+        "seen": true,
+        "name": "LICENSE.md"
+      },
+      "main.js": {
+        "previousModTime": 1511696041538,
+        "modified": 1511696041538,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1511695838886,
+        "modified": 1511695838886,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1511695838889,
+        "modified": 1511695838889,
+        "seen": true,
+        "name": "README.md"
+      },
+      "utl/cfg-app-platform.js": {
+        "previousModTime": 1511695838939,
+        "modified": 1511695838939,
+        "seen": true,
+        "name": "utl/cfg-app-platform.js"
+      },
+      "utl/version-compare.js": {
+        "previousModTime": 1511695838891,
+        "modified": 1511695838891,
+        "seen": true,
+        "name": "utl/version-compare.js"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1511695839118,
+        "modified": 1511695839118,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {
+      "icon.png": {
+        "previousModTime": 1511696045249
+      },
+      "LICENSE.md": {
+        "previousModTime": 1511696045249
+      },
+      "main.js": {
+        "previousModTime": 1511696045249
+      },
+      "package.json": {
+        "previousModTime": 1511696045249
+      },
+      "README.md": {
+        "previousModTime": 1511696045249
+      },
+      "utl/cfg-app-platform.js": {
+        "previousModTime": 1511696045249
+      },
+      "utl/version-compare.js": {
+        "previousModTime": 1511696045249
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1511696045249
+      }
+    }
+  }
+}

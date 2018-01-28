@@ -1,0 +1,22 @@
+{
+	"$schema": "http://json-schema.org/draft-06/schema#",
+	"title": "SensedData",
+
+	"type": "object",
+	"properties": {
+		"name": {
+			"type": "string"
+		},
+		"sensordata": {
+			"type": "number"
+		},
+		"id": {
+			"type": "integer"
+		},
+		"time": {
+			"type": "string"
+		}
+	},
+
+	"required": ["name", "sensordata", "id", "time"]
+}
